@@ -1,7 +1,6 @@
 package iuh.fit.se.getapi.models;
 
 import lombok.*;
-
 @Getter
 @Setter
 @ToString
